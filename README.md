@@ -73,13 +73,13 @@ This project showcases the development of professional business intelligence rep
 
 ## 📁 Project Deliverables
 
-| Report | Description | Link |
-|--------|-------------|------|
-| Customer Performance Report | Detailed customer-level sales and profitability metrics | [View Report](https://github.com/AbhishekSholapur/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) |
-| Market vs. Sales Targets | Regional performance against strategic benchmarks | [View Report](https://github.com/AbhishekSholapur/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) |
-| P&L by Fiscal Year | Annual financial performance summary | [View Report](https://github.com/AbhishekSholapur/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) |
-| P&L by Months | Monthly granular financial tracking | [View Report](https://github.com/AbhishekSholapur/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf) |
-| P&L by Markets | Geographic and market segment profitability | [View Report](https://github.com/AbhishekSholapur/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf) |
+| Report | Description |
+|--------|-------------|
+| Customer Performance Report | Detailed customer-level sales and profitability metrics |
+| Market Performance vs Target Report | Regional performance against strategic benchmarks |
+| P&L by Fiscal Year | Annual financial performance summary |
+| P&L by Months | Monthly granular financial tracking |
+| P&L by Markets | Geographic and market segment profitability |
 
 ---
 
